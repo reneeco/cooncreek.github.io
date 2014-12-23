@@ -296,6 +296,7 @@ Full-Width Styles
 a {
 
   display: inline-block;
+  width: 60px; 
 }
 
 li{
