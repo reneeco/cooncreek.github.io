@@ -275,7 +275,7 @@ Full-Width Styles
 
   width: 20%;
   position: fixed; 
-  top: 0;
+  top: -3px;
   left: 5%; 
 }
 
