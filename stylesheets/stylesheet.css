@@ -275,6 +275,7 @@ Full-Width Styles
   display: block;
   position: static;
   bottom:0;
+  
   left: 10px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
