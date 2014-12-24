@@ -274,7 +274,7 @@ Full-Width Styles
 #banner{
 
   width: 20%;
-  position: fixed; 
+  position: relative; 
   top: -5px;
   left: 5%; 
 }
