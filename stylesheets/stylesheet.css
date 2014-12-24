@@ -291,7 +291,7 @@ Full-Width Styles
     list-style-type: none;
     margin: 0;
     padding: 0;
-    margin-left: 25%;
+    /*margin-left: 25%;*/
      
 
 }
@@ -299,7 +299,7 @@ Full-Width Styles
 #navbar_wrap{
 
     background-color: #212121; 
-
+    width: 100%;
 }
 
 .navbutton {
