@@ -332,8 +332,7 @@ div.navbutton:hover{
 
 a {
 
-  display: inline-block; 
-  padding: 0px;
+  display: block; 
   font-family: sans-serif;
   text-decoration: none; 
 }
