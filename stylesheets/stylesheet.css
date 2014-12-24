@@ -262,7 +262,6 @@ Full-Width Styles
 
 .outer {
   width: 100%;
-  border: 2px dashed gray;
 }
 
 .inner {
@@ -270,7 +269,6 @@ Full-Width Styles
   max-width: 640px;
   padding: 0px 0px;
   margin: 0 auto;
-  border: 2px dashed gray;
 }
 
 * {
@@ -292,7 +290,6 @@ Full-Width Styles
   box-shadow: 0 0 100px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
-  border: 2px dashed gray;
 }
 
 #navbar{
@@ -323,7 +320,7 @@ Full-Width Styles
 
 div.navbutton:hover{
 
-    color: #303030;
+    color: #101010;
 }
 
 a {
