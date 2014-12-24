@@ -314,10 +314,10 @@ Full-Width Styles
 .navbutton {
     position: relative;
     height: 30px;
-    width: 100px;
+    width: 10%;
     float: left;
     background-color: #212121; 
-    border: 2px dashed gray;
+    text-align: center; 
 
 }
 
