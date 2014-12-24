@@ -299,8 +299,7 @@ Full-Width Styles
     list-style-type: none;
     margin: 0;
     padding: 0;
-    /*margin-left: 25%;*/
-    border: 2px dashed gray;
+    margin-left: 25%;   
 
 }
 
@@ -308,7 +307,7 @@ Full-Width Styles
 
     background-color: #212121; 
     width: 100%;
-    border: 5px solid green;
+    border: 2px solid green;
     height: 30px;
 }
 
