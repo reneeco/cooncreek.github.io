@@ -308,7 +308,7 @@ Full-Width Styles
 
     background-color: #212121; 
     width: 100%;
-    border: 2px dashed blue;
+    border: 5px solid green;
 }
 
 .navbutton {
