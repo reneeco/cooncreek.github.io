@@ -321,6 +321,11 @@ Full-Width Styles
 
 }
 
+div.navbutton:hover{
+
+    color: #303030;
+}
+
 a {
 
   display: inline-block;
