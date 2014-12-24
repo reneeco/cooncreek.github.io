@@ -300,21 +300,13 @@ Full-Width Styles
 
 
 }
-#navbar_wrap {
-  background-color: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
 
-}
 .navbutton {
     position: relative;
     height: 30px;
     width: 100px;
     float: left;
-
+    background-color: green; 
 
 }
 
