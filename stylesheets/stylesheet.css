@@ -271,6 +271,11 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+#banner{
+
+  width: 15%;
+}
+
 * {
 
   
