@@ -305,7 +305,7 @@ Full-Width Styles
 
 #navbar_wrap{
 
-    background-color: #151515; 
+    background-color: #303030; 
     width: 100%;
     border: 2px solid green;
     height: 30px;
@@ -316,7 +316,7 @@ Full-Width Styles
     height: 30px;
     width: 10%;
     float: left;
-    background-color: #212121; 
+    
     text-align: center; 
 
 }
